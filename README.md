@@ -14,4 +14,20 @@ Visual Studio Code is a light and free to use IDE that is often used for editing
 
 ## Downloading and Installing Demo Project
 
+You can download this project as a Zip file by selecting the `<> Code ` dropdown on the page and then the `Download ZIP` option.
+
+Unzip the project to an empty folder somewhere on your computer.
+
+If you know how to use Git, feel free to clone the project using Git.
+
 ## HTML, CSS & JavaScript
+
+The HTML, CSS and JavaScript files within this project can be used to practice editing code with Visual Studio Code.
+
+When you open this project in Visual Studio Code, you can practice editing HTML, CSS and JavaScript code.
+
+W3Schools has useful reference information for HTML, CSS & JavaScript: [www.w3schools.com](www.w3schools.com)
+
+HTML, CSS and JavaScript make up the structure, style and logic of web pages:
+
+![image](./images/javascript.gif)
