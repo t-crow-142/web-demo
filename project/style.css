@@ -1,8 +1,13 @@
+/* This is the CSS code for the style of the page: */
 
+/* The h1 selector means that style here will relate to 'h1'/heading elements */
+h1 {
+    /* The color property here sets the text color for 'h1' elements: */
+    color: orange;
+}
 
 .header {
     background-color: darkred;
-    color: black;
     padding: 30px;
     text-align: center;
 }
