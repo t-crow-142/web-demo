@@ -20,6 +20,18 @@ Unzip the project to an empty folder somewhere on your computer.
 
 If you know how to use Git, feel free to clone the project using Git.
 
+## Opening Project with Visual Studio Code
+
+Once Visual Studio Code is installed on your computer and have unzipped the project folder, you can open the whole project folder with Visual Studio Code.
+
+This will allow you to edit and manage files in your project.
+
+Make sure to save your changes in Visual Studio Code and/or have autosave enabled.
+
+You can run your HTML file with any web browser. 
+
+Make sure to refresh the page in your browser to see any changes.
+
 ## HTML, CSS & JavaScript
 
 The HTML, CSS and JavaScript files within this project can be used to practice editing code with Visual Studio Code.
